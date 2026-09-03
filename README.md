@@ -31,6 +31,12 @@ Built with **Java 21, Spring Boot, Spring AI and Streamable HTTP**, with secure 
 
 **Technical article:** [MCP senza magia: costruire un server universale per collegare le API all’AI e avviarlo come servizio Windows](https://www.salvatoremichelelombardo.it/server-mcp-universale-api-java-spring-ai-servizio-windows/)
 
+## Private R&D ecosystem
+
+Alongside the public reference project, I maintain a private MCP-oriented R&D environment for experimenting with service orchestration, local dashboards, Windows services, device and API integrations, observability and security boundaries.
+
+The private repositories are intentionally not exposed as a catalogue. Their purpose is to develop and test reusable architecture, while selected components that are useful to other developers can be documented and released publicly when they are mature enough.
+
 ## Engineering principles
 
 I prefer systems that are understandable before they are impressive: explicit contracts, controlled permissions, observable behavior, reproducible builds and documentation that explains not only *how* something works, but *why* it was designed that way.
