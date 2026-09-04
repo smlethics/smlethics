@@ -2,11 +2,11 @@
 
 ### Software Developer · Java · APIs · MCP & AI Integrations · Cybersecurity
 
-I design and develop software with a focus on **Java, API integration, backend systems, Model Context Protocol (MCP), AI integrations and cybersecurity**.
+I am **Salvatore Michele Lombardo**, software developer and creator of **SML Ethics**, also known online as **GLIDERMAN**. I design and develop software with a focus on **Java, API integration, backend systems, Model Context Protocol (MCP), AI integrations and cybersecurity**.
 
 My approach is practical: understand the system, define clear boundaries, build maintainable integrations and document what can be reused by others.
 
-I publish technical experiments and open-source reference projects alongside my work on software engineering, security and the interaction between AI and real-world systems.
+I publish technical experiments and open-source reference projects alongside my work on software engineering, security, AI integration and the interaction between technology and real-world systems.
 
 ## Current focus
 
@@ -19,7 +19,7 @@ I publish technical experiments and open-source reference projects alongside my 
 - Cybersecurity and secure-by-design development
 - Windows automation and PowerShell
 
-## Featured project
+## Featured open-source project
 
 ### MCP Universal API Windows Service
 
@@ -45,17 +45,20 @@ Security is treated as an architectural boundary rather than an afterthought, es
 
 ## Technologies
 
-`Java` · `Spring Boot` · `Spring AI` · `REST` · `SOAP` · `MCP` · `Git` · `GitHub Actions` · `PowerShell` · `Docker` · `OpenShift` · `DB2` · `Oracle` · `HTML` · `XML` · `JSON`
+`Java` · `Spring Boot` · `Spring AI` · `REST` · `SOAP` · `MCP` · `Model Context Protocol` · `Git` · `GitHub Actions` · `PowerShell` · `Docker` · `OpenShift` · `DB2` · `Oracle` · `HTML` · `XML` · `JSON`
 
-## Beyond code
+## SML Ethics and technical writing
 
-I also write about **technology, digital ethics, critical thinking and the relationship between people and software**. My goal is to share useful work without turning a profile into a catalogue of claims: the projects, code and documentation should speak for themselves.
+Through **SML Ethics** I also write about **technology, digital ethics, critical thinking, cybersecurity and the relationship between people and software**. Technical projects published here are connected to longer-form documentation and articles on my website, creating a consistent public identity across GitHub and the web.
 
 ## Links
 
-- **Website:** [salvatoremichelelombardo.it](https://www.salvatoremichelelombardo.it/)
+- **Website:** [Salvatore Michele Lombardo — SML Ethics](https://www.salvatoremichelelombardo.it/)
+- **Technical project:** [MCP Universal API Windows Service](https://github.com/smlethics/mcp-universal-api-windows-service)
 - **GitHub:** [@smlethics](https://github.com/smlethics)
 
 ---
+
+**Keywords:** Salvatore Michele Lombardo, SML Ethics, GLIDERMAN, Java developer, Model Context Protocol, MCP server, Spring AI, Spring Boot, API integration, cybersecurity, AI integrations.
 
 *Designed, built and documented with a preference for practical engineering, security and continuous learning.*
