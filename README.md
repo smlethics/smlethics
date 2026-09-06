@@ -1,10 +1,10 @@
 # Salvatore Michele Lombardo
 
-### Senior Software & Integration Engineer · Technical Analyst · Java · APIs · Automation · Cybersecurity
+### Senior Software & Integration Engineer · Technical Analyst · Java · APIs · PowerShell · Automation · Cybersecurity
 
 I am **Salvatore Michele Lombardo**, an analyst programmer and IT consultant by professional role, and a **Senior Software & Integration Engineer by technical profile and independent practice**. I am the creator of **SML Ethics**, also known online as **GLIDERMAN**.
 
-My work and independent R&D span **Java enterprise development, API and system integration, backend engineering, automation, software architecture, Model Context Protocol (MCP), AI integrations and cybersecurity**.
+My work and independent R&D span **Java enterprise development, API and system integration, backend engineering, PowerShell and Windows automation, software architecture, Model Context Protocol (MCP), AI integrations and cybersecurity**.
 
 The distinction matters: my formal role describes the responsibilities assigned within a specific professional context; this profile describes the broader engineering capabilities I apply across personal projects, research, open-source work and SML Ethics.
 
@@ -14,7 +14,7 @@ My approach is practical: understand the system, define clear boundaries, build 
 
 - **Formal professional role:** Analyst Programmer / IT Consultant
 - **Independent technical profile:** Senior Software & Integration Engineer
-- **Core areas:** Enterprise software, Java, APIs, systems integration, automation, troubleshooting, security and technical architecture
+- **Core areas:** Enterprise software, Java, APIs, systems integration, PowerShell, Windows automation, troubleshooting, security and technical architecture
 - **Independent laboratory:** SML Ethics
 
 ## Current focus
@@ -27,7 +27,10 @@ My approach is practical: understand the system, define clear boundaries, build 
 - AI tools and agent integrations
 - Software and solution architecture
 - Cybersecurity and secure-by-design development
-- Windows services, automation and PowerShell
+- PowerShell scripting and reusable automation tooling
+- Windows services: installation, lifecycle, health checks and recovery automation
+- Process, RAM/CPU and runtime diagnostics
+- Operational scripts for validation, smoke tests, configuration and controlled remediation
 - Observability, health monitoring and runtime diagnostics
 - Docker, OpenShift and distributed application environments
 
@@ -61,7 +64,7 @@ Troubleshooting is part of engineering: when a system fails, I work across appli
 
 ## Technologies
 
-`Java` · `Spring Boot` · `Spring AI` · `REST` · `SOAP` · `MCP` · `Model Context Protocol` · `Git` · `GitHub Actions` · `PowerShell` · `Windows Services` · `Docker` · `OpenShift` · `DB2` · `Oracle` · `HTML` · `XML` · `JSON`
+`Java` · `Spring Boot` · `Spring AI` · `REST` · `SOAP` · `MCP` · `Model Context Protocol` · `PowerShell` · `Windows Automation` · `Windows Services` · `Process Monitoring` · `Git` · `GitHub Actions` · `Docker` · `OpenShift` · `DB2` · `Oracle` · `HTML` · `XML` · `JSON`
 
 ## SML Ethics and technical writing
 
@@ -75,6 +78,6 @@ Through **SML Ethics** I write about **technology, software engineering, digital
 
 ---
 
-**Keywords:** Salvatore Michele Lombardo, SML Ethics, GLIDERMAN, Senior Software Engineer, Software Integration Engineer, Technical Analyst, Java developer, enterprise integration, Model Context Protocol, MCP server, Spring AI, Spring Boot, API integration, automation, cybersecurity, AI integrations.
+**Keywords:** Salvatore Michele Lombardo, SML Ethics, GLIDERMAN, Senior Software Engineer, Software Integration Engineer, Technical Analyst, Java developer, PowerShell, Windows automation, Windows services, scripting, enterprise integration, Model Context Protocol, MCP server, Spring AI, Spring Boot, API integration, automation, cybersecurity, AI integrations.
 
 *Engineering beyond the job title: software, integration, automation, security and continuous learning.*
