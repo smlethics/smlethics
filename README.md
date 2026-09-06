@@ -1,23 +1,35 @@
 # Salvatore Michele Lombardo
 
-### Software Developer · Java · APIs · MCP & AI Integrations · Cybersecurity
+### Senior Software & Integration Engineer · Technical Analyst · Java · APIs · Automation · Cybersecurity
 
-I am **Salvatore Michele Lombardo**, software developer and creator of **SML Ethics**, also known online as **GLIDERMAN**. I design and develop software with a focus on **Java, API integration, backend systems, Model Context Protocol (MCP), AI integrations and cybersecurity**.
+I am **Salvatore Michele Lombardo**, an analyst programmer and IT consultant by professional role, and a **Senior Software & Integration Engineer by technical profile and independent practice**. I am the creator of **SML Ethics**, also known online as **GLIDERMAN**.
 
-My approach is practical: understand the system, define clear boundaries, build maintainable integrations and document what can be reused by others.
+My work and independent R&D span **Java enterprise development, API and system integration, backend engineering, automation, software architecture, Model Context Protocol (MCP), AI integrations and cybersecurity**.
 
-I publish technical experiments and open-source reference projects alongside my work on software engineering, security, AI integration and the interaction between technology and real-world systems.
+The distinction matters: my formal role describes the responsibilities assigned within a specific professional context; this profile describes the broader engineering capabilities I apply across personal projects, research, open-source work and SML Ethics.
+
+My approach is practical: understand the system, define clear boundaries, build maintainable integrations, automate repetitive work, observe runtime behavior and document what can be reused by others.
+
+## Professional context
+
+- **Formal professional role:** Analyst Programmer / IT Consultant
+- **Independent technical profile:** Senior Software & Integration Engineer
+- **Core areas:** Enterprise software, Java, APIs, systems integration, automation, troubleshooting, security and technical architecture
+- **Independent laboratory:** SML Ethics
 
 ## Current focus
 
-- Java 21 and backend development
+- Java 21 and enterprise/backend development
 - Spring Boot and Spring AI
+- REST and SOAP APIs
+- System and service integration
 - Model Context Protocol (MCP)
-- REST API and system integration
 - AI tools and agent integrations
-- Software architecture
+- Software and solution architecture
 - Cybersecurity and secure-by-design development
-- Windows automation and PowerShell
+- Windows services, automation and PowerShell
+- Observability, health monitoring and runtime diagnostics
+- Docker, OpenShift and distributed application environments
 
 ## Featured open-source project
 
@@ -31,25 +43,29 @@ Built with **Java 21, Spring Boot, Spring AI and Streamable HTTP**, with secure 
 
 **Technical article:** [MCP senza magia: costruire un server universale per collegare le API all’AI e avviarlo come servizio Windows](https://www.salvatoremichelelombardo.it/server-mcp-universale-api-java-spring-ai-servizio-windows/)
 
-## Private R&D ecosystem
+## SML Ethics — independent technical laboratory
 
-Alongside the public reference project, I maintain a private MCP-oriented R&D environment for experimenting with service orchestration, local dashboards, Windows services, device and API integrations, observability and security boundaries.
+**SML Ethics** is not only an editorial identity: it is also my independent technical laboratory and portfolio for software engineering, systems integration, automation, cybersecurity and digital ethics.
 
-The private repositories are intentionally not exposed as a catalogue. Their purpose is to develop and test reusable architecture, while selected components that are useful to other developers can be documented and released publicly when they are mature enough.
+Public repositories document reusable projects and reference implementations. Private repositories are used for R&D, prototypes, infrastructure, service orchestration, monitoring, device/API integrations and technical experiments that are not intended to expose private code or operational details.
+
+Selected mature components can later be documented or released publicly when they are useful to other developers.
 
 ## Engineering principles
 
-I prefer systems that are understandable before they are impressive: explicit contracts, controlled permissions, observable behavior, reproducible builds and documentation that explains not only *how* something works, but *why* it was designed that way.
+I prefer systems that are understandable before they are impressive: explicit contracts, controlled permissions, modular components, reversible changes, observable behavior, reproducible builds and documentation that explains not only *how* something works, but *why* it was designed that way.
 
-Security is treated as an architectural boundary rather than an afterthought, especially when software gives AI access to external APIs, services or devices.
+Security is treated as an architectural boundary rather than an afterthought, especially when software gives AI access to external APIs, services, operating-system functions or devices.
+
+Troubleshooting is part of engineering: when a system fails, I work across application code, runtime configuration, dependencies, services, permissions, networking, CI/CD and infrastructure rather than treating each layer as an isolated problem.
 
 ## Technologies
 
-`Java` · `Spring Boot` · `Spring AI` · `REST` · `SOAP` · `MCP` · `Model Context Protocol` · `Git` · `GitHub Actions` · `PowerShell` · `Docker` · `OpenShift` · `DB2` · `Oracle` · `HTML` · `XML` · `JSON`
+`Java` · `Spring Boot` · `Spring AI` · `REST` · `SOAP` · `MCP` · `Model Context Protocol` · `Git` · `GitHub Actions` · `PowerShell` · `Windows Services` · `Docker` · `OpenShift` · `DB2` · `Oracle` · `HTML` · `XML` · `JSON`
 
 ## SML Ethics and technical writing
 
-Through **SML Ethics** I also write about **technology, digital ethics, critical thinking, cybersecurity and the relationship between people and software**. Technical projects published here are connected to longer-form documentation and articles on my website, creating a consistent public identity across GitHub and the web.
+Through **SML Ethics** I write about **technology, software engineering, digital ethics, critical thinking, cybersecurity and the relationship between people and software**. Technical projects published here connect to longer-form documentation and articles on my website, creating a consistent identity across engineering work, GitHub and technical communication.
 
 ## Links
 
@@ -59,6 +75,6 @@ Through **SML Ethics** I also write about **technology, digital ethics, critical
 
 ---
 
-**Keywords:** Salvatore Michele Lombardo, SML Ethics, GLIDERMAN, Java developer, Model Context Protocol, MCP server, Spring AI, Spring Boot, API integration, cybersecurity, AI integrations.
+**Keywords:** Salvatore Michele Lombardo, SML Ethics, GLIDERMAN, Senior Software Engineer, Software Integration Engineer, Technical Analyst, Java developer, enterprise integration, Model Context Protocol, MCP server, Spring AI, Spring Boot, API integration, automation, cybersecurity, AI integrations.
 
-*Designed, built and documented with a preference for practical engineering, security and continuous learning.*
+*Engineering beyond the job title: software, integration, automation, security and continuous learning.*
